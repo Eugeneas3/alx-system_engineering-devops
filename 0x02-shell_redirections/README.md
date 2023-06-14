@@ -1,1 +1,1 @@
-Replace all characters A and c from input to Z and e respectively.
+ a script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolde
